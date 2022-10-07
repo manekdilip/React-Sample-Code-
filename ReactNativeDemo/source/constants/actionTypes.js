@@ -1,0 +1,15 @@
+// This file contains all the constants used in Redux
+
+export const GET_USERS_DATA_LOADING = 'GET_USERS_DATA_LOADING';
+export const GET_USERS_DATA_FAIL = 'GET_USERS_DATA_FAIL';
+export const GET_USERS_DATA_SUCCESS = 'GET_USERS_DATA_SUCCESS';
+
+export const SAVE_USERS_DATA_LOADING = 'SAVE_USERS_DATA_LOADING';
+export const SAVE_USERS_DATA_FAIL = 'SAVE_USERS_DATA_FAIL';
+export const SAVE_USERS_DATA_SUCCESS = 'SAVE_USERS_DATA_SUCCESS';
+
+export const LOGIN_LOADING = 'LOGIN_LOADING';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+
+export const CLEAR_DATA = 'CLEAR_DATA';
